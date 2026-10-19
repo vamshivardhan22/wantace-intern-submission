@@ -1,0 +1,21 @@
+AI USAGE NOTE — WantAce Solutions Engineer Intern Assignment
+
+Tools used:
+ChatGPT was used to help organize the submission scaffold, structure the requirement analysis, identify data-quality questions, and draft documentation.
+
+Tasks supported:
+Outlining the deliverables; organizing the Vardhan Steelware case notes; proposing a focused Phase 1 scope, data entities, roles and reports; improving clarity; and preparing GitHub publication documentation.
+
+Independent contribution:
+I must personally complete and verify the real-business audit, actual owner/manager interview, direct quotes, photographs obtained with permission, final decisions, and demo recording. This scaffold does not prove that those activities happened.
+
+Checks and corrections:
+Recommendations were labelled as recommendations, not confirmed client requirements. Repeated-looking records should be validated rather than automatically called duplicates. Quantities recorded in kilograms and pieces cannot be reconciled without an approved conversion or measurement rule. No business-interview quotes or quantified business results were invented for this scaffold.
+
+Limitations:
+The referenced ZIP was not accessible during publication, and the real Part A evidence and Part E demo recording were not provided in this chat. I need to add them if not already completed and verify the final materials against the original assignment brief.
+
+Final verification:
+Before submission, I will review every factual claim, link, direct quotation, image, demo claim, and description of AI use, and will remove anything I cannot substantiate.
+
+IMPORTANT: Edit this note to reflect what you actually used, did, and personally verified. Do not submit a disclosure that says you performed checks or gathered evidence unless you did.
